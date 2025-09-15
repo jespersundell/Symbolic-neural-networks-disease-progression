@@ -1,1 +1,1 @@
-# Symbolic-neural-networks-disease-progression
+# Learning covariate relations in disease progression models using symbolic neural networks
